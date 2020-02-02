@@ -3,4 +3,4 @@
 	url = https://github.com/calintat/minimal.git
 [submodule "themes/Mainroad"]
 	path = themes/Mainroad
-	url = https://github.com/ahoog42/Mainroad
+	url = git@github.com:ahoog42/Mainroad
